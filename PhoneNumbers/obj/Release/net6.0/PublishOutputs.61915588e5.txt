@@ -1,0 +1,12 @@
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\PhoneNumbers.exe
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\PhoneNumbers.dll
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\PhoneNumbers.deps.json
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\PhoneNumbers.runtimeconfig.json
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\PhoneNumbers.pdb
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\ConsoleApp1\PhoneNumbers\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
